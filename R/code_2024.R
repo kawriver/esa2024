@@ -26,20 +26,20 @@
 
 
 ####    load packages     ####
-require('vegan')
-require('labdsv')
-require('ade4')
-require('ecodist')
-require('fso')
-require('vegclust')
-require('ape')
-require('picante')
-require('mgcv')
-require('tidyr')
-require('dplyr')
-require('lme4')
-require('lmerTest')
-require('effects')
+library('vegan')
+library('labdsv')
+library('ade4')
+library('ecodist')
+library('fso')
+library('vegclust')
+library('ape')
+library('picante')
+library('mgcv')
+library('tidyr')
+library('dplyr')
+library('lme4')
+library('lmerTest')
+library('effects')
 
 ### R
 
